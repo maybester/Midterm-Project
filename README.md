@@ -6,3 +6,16 @@
 
 ## Workflow
 
+### API connestion
+
+### Data merging
+
+
+### Data modelling
+
+
+### Data visualization
+
+## Presentation
+
+
