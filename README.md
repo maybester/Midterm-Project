@@ -1,1 +1,3 @@
 # Midterm-Project
+
+## Project Planning
