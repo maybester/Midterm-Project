@@ -6,7 +6,7 @@
 
 ## Workflow
 
-### API connestion
+### API connection
 
 ### Data merging
 
